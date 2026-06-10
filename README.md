@@ -123,4 +123,4 @@ README.md
 
 **Course:** CS 143 — Java II  
 **Institution:** Everett Community College  
-**Term:** Spring/Summer 2026
+**Term:** Spring 2026
