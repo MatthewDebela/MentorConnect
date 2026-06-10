@@ -112,9 +112,9 @@ README.md
 
 | Member | File | Contribution |
 |--------|------|-------------|
-| **Navy Phannmannavy Phorn** | User.java | Designed and implemented the abstract User base class including all private fields, getters, setters, and the abstract displayProfile() method |
+| **Navy ** | User.java | Designed and implemented the abstract User base class including all private fields, getters, setters, and the abstract displayProfile() method |
 | **Jadelyne** | Mentor.java, Mentee.java | Built the Mentor and Mentee subclasses with skills, interests, connections, add/remove methods, and polymorphic displayProfile() implementations |
-| **Matthew Debela** | MentorshipPlatform.java | Wrote the platform engine including the matching algorithm, match score calculation, filtering by field and community, connection management, and all 25 mentor and 20 mentee preloaded profiles |
+| **Matthew ** | MentorshipPlatform.java | Wrote the platform engine including the matching algorithm, match score calculation, filtering by field and community, connection management, and all 25 mentor and 20 mentee preloaded profiles |
 | **Abenezer** | Main.java | Built the full console UI including registration flow, dashboard navigation, find matches, browse and filter, edit profile, view connections, and all input handling with go-back support |
 
 ---
